@@ -1,0 +1,21 @@
+@media screen and (max-width: 900px) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+  }
+  .summaryContent {
+    flex-direction: column;
+    align-items: center;
+  }
+  .summary {
+    padding: 0;
+  }
+  .paragraph,
+  .summaryAnalysis {
+    width: auto;
+    padding: 0 30px 60px;
+  }
+  .c3po {
+    height: 200px;
+  }
+}
