@@ -55,6 +55,7 @@
 
 .summary {
   padding: 80px 160px;
+  background-color: white;
 }
 .summaryContent {
   display: flex;
