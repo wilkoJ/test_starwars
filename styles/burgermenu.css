@@ -95,7 +95,7 @@
     width: 100%;
     justify-content: center;
     align-items: center;
-    background: rgba(0, 0, 0) url("Assets/header-bg.png");
+    background: rgba(0, 0, 0) url("../Assets/header-bg.png");
   }
   #menu-toggle ~ .menu li {
     height: 0;
